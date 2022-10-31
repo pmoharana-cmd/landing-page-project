@@ -7,4 +7,4 @@ This landing page was created as a practice for basic HTML and CSS styling. For 
 I worked on each section of the website individually before moving onto the next section. I first worked on the header, moving onto the main body elements, and then ending with the footer. I coded the HTML and sytled it will CSS as I went along. This website was built completely using Visual Studio Code
 
 ## Installation and Usuage
-This site can be accesed using this [GitHub Pages Link]()
+This site can be accesed using this [GitHub Pages Link](https://pmoharana-cmd.github.io/landing-page-project/)
